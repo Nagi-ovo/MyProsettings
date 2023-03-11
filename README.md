@@ -8,7 +8,7 @@
 
 
 
-## A React App that searches the game Settings of current **CS: GO Pros** through a local database
+*A React App that searches the game Settings of current **CS: GO Pros** through a local database*
 
 # Development
 
