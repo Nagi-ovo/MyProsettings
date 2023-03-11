@@ -1,5 +1,10 @@
 ![](./public/img/demo1.png)
-
+<p align="center">
+  <sub>
+    Built with ❤︎ by
+    <a href="[https://github.com/navendu-pottekkat](https://github.com/Nagi-ovo)">Nagi-ovo</a>
+  </sub>
+</p>
 
 # Development
 
