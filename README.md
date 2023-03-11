@@ -6,11 +6,9 @@
   </sub>
 </p>
 
-<a href="https://space.bilibili.com/312249633?spm_id_from=333.337.0.0" target="_blank">
-    <img src="" alt="Bilibili">
-  </a>
 
-# A React App that searches the game Settings of current **CS: GO Pros** through a local database
+
+## A React App that searches the game Settings of current **CS: GO Pros** through a local database
 
 # Development
 
