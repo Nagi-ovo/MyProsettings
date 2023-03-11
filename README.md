@@ -23,3 +23,8 @@ You can simply run this demo by running:
 npm start
 ```
 
+# TODO
+- [x] Case insensitive
+- [ ] a cloud database
+- [ ] number insensitive
+- [ ] Extend the database
