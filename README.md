@@ -10,6 +10,10 @@
 
 *A React App that searches the game Settings of current **CS: GO Pros** through a local database*
 
+<p align="center">
+  <img alt="demo-show" src="public/img/demo2.gif">
+</p>
+
 # Development
 
 Clone this repository and  download the necessary configuration(including React and Node.js) 
