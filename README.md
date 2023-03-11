@@ -25,6 +25,7 @@ npm start
 
 # TODO
 - [x] Case insensitive
+- [x] fixed a digit percision bug in the gif preview
 - [ ] a cloud database
 - [ ] number insensitive
 - [ ] Extend the database
