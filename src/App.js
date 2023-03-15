@@ -1,25 +1,62 @@
-import logo from './logo.svg';
-import './App.css';
+import { Component, component } from "react";
+import SearchBox from "./components/search-box/search-box.component";
+import CardList from "./components/card-list/card-list.component";
+import "./App.css";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  constructor() {
+    super();
+
+    this.state = {
+      players: [],
+      searchField: "",
+    };
+  }
+
+  componentDidMount() {
+    fetch("./db.json")
+      .then((response) => response.json())
+      .then((users) =>
+        this.setState(
+          () => {
+            return { players: users };
+          },
+          () => {
+            console.log(this.state);
+          }
+        )
+      );
+  }
+
+  onSearchChange = (event) => {
+    const searchField = event.target.value.toLocaleLowerCase();
+    //{name:"Leanne"},{name:"Yihua"}
+
+    this.setState(() => {
+      return { searchField };
+    });
+  };
+
+  render() {
+    //解构，增加可读性
+    // console.log("render from APPJS");
+    const { players, searchField } = this.state;
+    const { onSearchChange } = this;
+    const filteredPlayers = players.filter((player) => {
+      return player.playerID.toLocaleLowerCase().includes(searchField);
+    });
+    return (
+      <div className="App">
+        <h1 className="app-title">Prosettings</h1>
+
+        <SearchBox
+          className="players-search-box"
+          onChangeHandler={onSearchChange}
+          placeholder="search players"
+        />
+        <CardList players={filteredPlayers} />
+      </div>
+    );
+  }
 }
-
 export default App;

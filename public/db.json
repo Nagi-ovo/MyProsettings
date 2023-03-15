@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "name": "Nikola Kovač",
+    "playerID": "Niko",
+    "country": "Bosnia & Herzegovina",
+    "team": "G2 Esports",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 1.375,
+      "edpi": 550,
+      "zoom-sense": 0.9
+    }
+  },
+  {
+    "id": 2,
+    "name": "Oleksandr Kostyliev",
+    "playerID": "s1mple",
+    "country": "Ukraine",
+    "team": "Natus Vincere",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 3.09,
+      "edpi": 1236,
+      "zoom-sense": 1
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ilya Osipov",
+    "playerID": "m0NESY",
+    "country": "Russia",
+    "team": "G2 Esports",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 2,
+      "edpi": 800,
+      "zoom-sense": 1
+    }
+  },
+  {
+    "id": 4,
+    "name": "Valerii Vakhovskyi",
+    "playerID": "b1t",
+    "country": "Ukraine",
+    "team": "Natus Vincere",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 1.42,
+      "edpi": 568,
+      "zoom-sense": 1
+    }
+  },
+  {
+    "id": 5,
+    "name": "Russel Van Dulken",
+    "playerID": "Twistzz",
+    "country": "Canada",
+    "team": "FaZe Clan",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 1.7,
+      "edpi": 680,
+      "zoom-sense": 1
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mathieu Herbaut",
+    "playerID": "ZywOo",
+    "country": "France",
+    "team": "Team Vitality",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 2,
+      "edpi": 800,
+      "zoom-sense": 0.8
+    }
+  },
+  {
+    "id": 7,
+    "name": "Can Dörtkardeş",
+    "playerID": "XANTARES",
+    "country": "Turkey",
+    "team": "Eternal Fire",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 2,
+      "edpi": 800,
+      "zoom-sense": 1.1
+    }
+  },
+  {
+    "id": 8,
+    "name": "Robin Kool",
+    "playerID": "ropz",
+    "country": "France",
+    "team": "FaZe Clan",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 1.77,
+      "edpi": 708,
+      "zoom-sense": 1
+    }
+  },
+  {
+    "id": 9,
+    "name": "Nicolai Reedtz",
+    "playerID": "dev1ce",
+    "country": "Denmark",
+    "team": "Astralis",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 1.9,
+      "edpi": 760,
+      "zoom-sense": 1
+    }
+  },
+  {
+    "id": 10,
+    "name": "Kenny Schrub",
+    "playerID": "kennyS",
+    "country": "France",
+    "team": "Falcons Esports",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 2.2,
+      "edpi": 880,
+      "zoom-sense": 1
+    }
+  },
+  {
+    "id": 11,
+    "name": "Denis Sharipov",
+    "playerID": "electronic",
+    "country": "Russia",
+    "team": "Natus Vincere",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 2.2,
+      "edpi": 880,
+      "zoom-sense": 1.05
+    }
+  },
+  {
+    "id": 12,
+    "name": "Mareks Gaļinskis",
+    "playerID": "YEKINDAR",
+    "country": "Latvia",
+    "team": "Team Liquid",
+    "settings": {
+      "dpi": 800,
+      "sensitivity": 1.2,
+      "edpi": 960,
+      "zoom-sense": 1
+    }
+  },
+  {
+    "id": 13,
+    "name": "Eugene Karyat",
+    "playerID": "Aunkere",
+    "country": "Russia",
+    "team": "Free Agent",
+    "settings": {
+      "dpi": 500,
+      "sensitivity": 2.1,
+      "edpi": 1050,
+      "zoom-sense": 1.1
+    }
+  },
+  {
+    "id": 14,
+    "name": "Paweł Bieliński",
+    "playerID": "byali",
+    "country": "Poland",
+    "team": "Let Us Cook",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 1.7,
+      "edpi": 680,
+      "zoom-sense": 0.9
+    }
+  },
+  {
+    "id": 15,
+    "name": "Lucas Cano",
+    "playerID": "honda",
+    "country": "Brazil",
+    "team": "Case Esports",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 1.2,
+      "edpi": 480,
+      "zoom-sense": 1
+    }
+  },
+  {
+    "id": 16,
+    "name": "Ricardo Pacheco",
+    "playerID": "fox",
+    "country": "Portugal",
+    "team": "Fourteen Esports",
+    "settings": {
+      "dpi": 400,
+      "sensitivity": 4.7,
+      "edpi": 1880,
+      "zoom-sense": 1
+    }
+  }
+]
