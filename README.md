@@ -13,7 +13,7 @@
 <p align="center">
   <img alt="demo-show" src="public/img/demo2.gif">
 </p>
-
+( this bug has been already fixed :) )
 # Development
 
 Clone this repository and  download the necessary configuration(including React and Node.js) 
